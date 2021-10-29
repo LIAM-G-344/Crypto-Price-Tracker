@@ -1,4 +1,11 @@
 # Crypto-Price-Tracker
-Tracks crypto coin prices and it shows as a notification every 5 minutes
+Tracks crypto coin prices and it shows a price notification every 5 minutes
+
 Current status:
-In development with an expected release date of 11/15/2021
+Beta Testing
+
+Compatibility:
+Windows only
+
+Requirements:
+Python3
