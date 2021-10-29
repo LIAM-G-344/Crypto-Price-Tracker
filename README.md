@@ -14,6 +14,7 @@ Python3
 
 Before instalation, verify Python3 is installed. Run the setup.py script that will install
 these packages if they are not previouly installed:
+
 requests
 json
 time
