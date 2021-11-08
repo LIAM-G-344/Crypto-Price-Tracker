@@ -1,12 +1,12 @@
-print("Setup may install as many as 10 packages.")
+print("Setup may install as many as 10 packages. If setup.py was not ran with administartor privlages the instalation will fail.")
 inp_1 = input("To contine press y/n: ")
 
 if inp_1 == "y":
     print("Installing")
-
+    
 elif inp_1 == "Y":
     print("Installing")
-
+    
 elif inp_1 == "yes":
     print("Installing")
 
@@ -42,6 +42,7 @@ install("string")
 install("os")
 install("PySimpleGUI")
 install("subprocess")
+install("shutil")
 
 import requests
 import json
@@ -53,5 +54,8 @@ import string
 import os
 import PySimpleGUI as sg
 import subprocess
+import shutil
+
+shutil.move('custom.ico', 'C:\Program Files')
 
 rando = input("Finished, press enter to close out of this windows and open up Crypto-Price-Tracker.pyw")
