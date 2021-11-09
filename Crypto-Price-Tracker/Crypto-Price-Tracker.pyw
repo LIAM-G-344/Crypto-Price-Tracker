@@ -2,7 +2,7 @@ import sys, string, os
 import PySimpleGUI as sg
 import subprocess
 
-layout=[[sg.Text("Choose crypto coin to track")], [sg.Button("ETH")], [sg.Button("BTC")], [sg.Button("XRP")], [sg.Button("XMR")], [sg.Button("Close Program")]]
+layout=[[sg.Text("Choose crypto coin to track")], [sg.Button("ETH")], [sg.Button("BTC")], [sg.Button("XRP")], [sg.Button("LTC")], [sg.Button("Close Program")]]
 window = sg.Window("Menu",layout)
 
 while True:
