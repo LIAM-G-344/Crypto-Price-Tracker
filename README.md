@@ -6,13 +6,17 @@ Current status:
 Testing
 
 
+
 Verified Compatibility:
 
 -Windows 10
 
 
+
 Requirements:
+
 Python3
+
 
 
 Cryptocoins You Can Track:
