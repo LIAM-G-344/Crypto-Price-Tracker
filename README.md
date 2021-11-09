@@ -15,8 +15,6 @@ Current Errors:
 
 -When a notifier is started then the GUI becomes unresponsive and it will not auto-close
 
--Setup.py sometimes works and sometimes dosent
-
 
 Requirements:
 
