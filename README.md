@@ -11,6 +11,11 @@ Verified Compatibility:
 -Windows 10
 
 
+Current Errors:
+
+-When a notifier is started then the GUI becomes unresponsive and it will not auto-close
+
+
 Requirements:
 
 Python3
