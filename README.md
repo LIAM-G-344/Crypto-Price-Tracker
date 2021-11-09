@@ -35,5 +35,3 @@ Before instalation, verify Python3 is installed. Unzip the downloaded file and n
 -PySimpleGUI
 
 -subprocess
-
-*Please note that the XMR tracker dose not currently work because of an unknown issue with the API*
