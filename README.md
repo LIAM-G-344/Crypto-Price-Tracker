@@ -2,7 +2,7 @@
 Tracks crypto coin prices and it shows a price notification every 5 minutes
 
 Current status:
-Beta Testing
+Testing
 
 Verified Compatibility:
 
@@ -34,3 +34,5 @@ Before instalation, verify Python3 is installed. Unzip the downloaded file and n
 -PySimpleGUI
 
 -subprocess
+
+*Please note that the XMR tracker dose not currently work because of an unknown issue with the API*
