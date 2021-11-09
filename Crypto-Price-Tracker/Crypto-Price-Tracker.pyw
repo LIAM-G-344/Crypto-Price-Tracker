@@ -19,8 +19,8 @@ while True:
         from notifyx import xrp as apte
         exit()
         break
-    if event == "XMR":
-        from notifyx import xmr as apte
+    if event == "LTC":
+        from notifyx import ltc as apte
         exit()
         break
     if event == "Close Program":
