@@ -1,3 +1,5 @@
+import sys
+import subprocess
 print("Setup may install as many as 10 packages. If setup.py was not ran with administartor privlages the instalation will fail.")
 inp_1 = input("To contine press y/n: ")
 
@@ -29,7 +31,6 @@ def install(package):
     try:
         __import__(package)
     except:
-        import subprocess
         subprocess.call([sys.executable, "-m", "pip", "install", package])
 
 install("requests")
