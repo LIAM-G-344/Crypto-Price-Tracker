@@ -18,7 +18,7 @@ Current Errors:
 
 Requirements:
 
-Python3
+Python3 with the standard library installed
 
 
 Cryptocoins You Can Track:
