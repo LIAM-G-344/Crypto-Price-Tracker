@@ -46,6 +46,8 @@ Before instalation, verify Python3 is installed. Unzip the downloaded file and n
 -PySimpleGUI
 
 # License
+Crypto-Price-Tracker
+
 Copyright (C) 2021  LIAM-G-344
 This program comes with ABSOLUTELY NO WARRANTY.
 This is free software, you can modify it and you are also welcome to redistribute it
