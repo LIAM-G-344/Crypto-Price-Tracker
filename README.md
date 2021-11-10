@@ -39,12 +39,8 @@ Before instalation, verify Python3 is installed. Unzip the downloaded file and n
 
 -datetime
 
--sys
-
 -string
 
 -os
 
 -PySimpleGUI
-
--subprocess
