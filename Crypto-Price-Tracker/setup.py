@@ -1,6 +1,6 @@
 import sys
 import subprocess
-print("Setup may install as many as 10 packages. If setup.py was not ran with administartor privlages the instalation will fail.")
+print("Setup may install as many as 8 packages. If setup.py was not ran with administartor privlages the instalation will fail.")
 inp_1 = input("To contine press y/n: ")
 
 if inp_1 == "y":
