@@ -44,3 +44,10 @@ Before instalation, verify Python3 is installed. Unzip the downloaded file and n
 -os
 
 -PySimpleGUI
+
+Copyright (C) 2021  LIAM-G-344
+This program comes with ABSOLUTELY NO WARRANTY.
+This is free software, and you are welcome to redistribute it
+under certain conditions. For the liscence conditions, view
+https://github.com/LIAM-G-344/Crypto-Price-Tracker/blob/main/LICENSE
+for more information.
